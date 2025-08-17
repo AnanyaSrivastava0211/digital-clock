@@ -1,7 +1,7 @@
 # ⏰ Clockify – Digital Clock Project
 
 Welcome to my digital clock repository!  
-This simple yet functional clock app is built using *HTML, **CSS, and **JavaScript*, and is live at the link below.
+This simple yet functional clock app is built using HTML, CSS, and JavaScript, and is live at the link below.
 
 ---
 
@@ -31,7 +31,7 @@ This project is a fun demonstration of how you can build and deploy a functional
 
 ---
 
-## 🌐 Connect with Me- 🐙 [GitHub](https://github.com/yourusername) *(replace yourusername with your actual GitHub handle)*  
+## 🌐 Connect with Me-  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ananya-srivastava11)  
 
 ---
